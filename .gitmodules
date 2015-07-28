@@ -7,3 +7,6 @@
 [submodule "__/github.com/samuell/devbox-python"]
 	path = __/github.com/samuell/devbox-python
 	url = https://github.com/samuell/devbox-python.git
+[submodule "__/github.com/akalyaev/rails-app-dev-boxes"]
+	path = __/github.com/akalyaev/rails-app-dev-boxes
+	url = https://github.com/akalyaev/rails-app-dev-boxes.git
