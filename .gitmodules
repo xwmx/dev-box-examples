@@ -1,0 +1,3 @@
+[submodule "__/github.com/banyan/chef-rails-dev-box"]
+	path = __/github.com/banyan/chef-rails-dev-box
+	url = https://github.com/banyan/chef-rails-dev-box.git
