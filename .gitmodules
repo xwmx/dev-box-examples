@@ -10,3 +10,6 @@
 [submodule "__/github.com/akalyaev/rails-app-dev-boxes"]
 	path = __/github.com/akalyaev/rails-app-dev-boxes
 	url = https://github.com/akalyaev/rails-app-dev-boxes.git
+[submodule "__/github.com/bobpace/devbox"]
+	path = __/github.com/bobpace/devbox
+	url = https://github.com/bobpace/devbox.git
