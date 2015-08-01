@@ -46,3 +46,6 @@
 [submodule "__/github.com/redsparklabs/spinuplabs-vagrant-dev-box"]
 	path = __/github.com/redsparklabs/spinuplabs-vagrant-dev-box
 	url = https://github.com/redsparklabs/spinuplabs-vagrant-dev-box.git
+[submodule "__/github.com/jpettersson/vagrant-rails-project-box"]
+	path = __/github.com/jpettersson/vagrant-rails-project-box
+	url = https://github.com/jpettersson/vagrant-rails-project-box.git
