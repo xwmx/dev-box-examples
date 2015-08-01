@@ -58,3 +58,6 @@
 [submodule "__/github.com/siyangbi/vagrant-nodejs-dev-box"]
 	path = __/github.com/siyangbi/vagrant-nodejs-dev-box
 	url = https://github.com/siyangbi/vagrant-nodejs-dev-box.git
+[submodule "__/github.com/aterrien/nodejs-devbox"]
+	path = __/github.com/aterrien/nodejs-devbox
+	url = https://github.com/aterrien/nodejs-devbox.git
