@@ -25,3 +25,6 @@
 [submodule "__/github.com/czerasz/nodejs-devbox"]
 	path = __/github.com/czerasz/nodejs-devbox
 	url = https://github.com/czerasz/nodejs-devbox.git
+[submodule "__/github.com/snooc/packer-node-devbox"]
+	path = __/github.com/snooc/packer-node-devbox
+	url = https://github.com/snooc/packer-node-devbox.git
