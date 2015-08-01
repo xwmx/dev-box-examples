@@ -13,3 +13,6 @@
 [submodule "__/github.com/bobpace/devbox"]
 	path = __/github.com/bobpace/devbox
 	url = https://github.com/bobpace/devbox.git
+[submodule "__/github.com/alabeduarte/vagrant-devbox-nodejs"]
+	path = __/github.com/alabeduarte/vagrant-devbox-nodejs
+	url = https://github.com/alabeduarte/vagrant-devbox-nodejs.git
