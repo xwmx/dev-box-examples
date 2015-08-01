@@ -16,3 +16,6 @@
 [submodule "__/github.com/alabeduarte/vagrant-devbox-nodejs"]
 	path = __/github.com/alabeduarte/vagrant-devbox-nodejs
 	url = https://github.com/alabeduarte/vagrant-devbox-nodejs.git
+[submodule "__/github.com/boycott/devbox"]
+	path = __/github.com/boycott/devbox
+	url = https://github.com/boycott/devbox.git
