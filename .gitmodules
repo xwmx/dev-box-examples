@@ -40,3 +40,6 @@
 [submodule "__/github.com/itsthatguy/generator-devbox"]
 	path = __/github.com/itsthatguy/generator-devbox
 	url = https://github.com/itsthatguy/generator-devbox.git
+[submodule "__/github.com/abnercarleto/devbox_rails"]
+	path = __/github.com/abnercarleto/devbox_rails
+	url = https://github.com/abnercarleto/devbox_rails.git
