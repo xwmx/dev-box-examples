@@ -34,3 +34,6 @@
 [submodule "__/github.com/rails/rails-dev-box"]
 	path = __/github.com/rails/rails-dev-box
 	url = https://github.com/rails/rails-dev-box.git
+[submodule "__/github.com/ebratini/rails-devbox"]
+	path = __/github.com/ebratini/rails-devbox
+	url = https://github.com/ebratini/rails-devbox.git
