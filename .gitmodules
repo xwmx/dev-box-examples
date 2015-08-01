@@ -49,3 +49,6 @@
 [submodule "__/github.com/jpettersson/vagrant-rails-project-box"]
 	path = __/github.com/jpettersson/vagrant-rails-project-box
 	url = https://github.com/jpettersson/vagrant-rails-project-box.git
+[submodule "__/github.com/truepattern/nodejs-dev-vbox"]
+	path = __/github.com/truepattern/nodejs-dev-vbox
+	url = https://github.com/truepattern/nodejs-dev-vbox.git
