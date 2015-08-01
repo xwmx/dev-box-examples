@@ -28,3 +28,6 @@
 [submodule "__/github.com/snooc/packer-node-devbox"]
 	path = __/github.com/snooc/packer-node-devbox
 	url = https://github.com/snooc/packer-node-devbox.git
+[submodule "__/github.com/batdevis/devbox"]
+	path = __/github.com/batdevis/devbox
+	url = https://github.com/batdevis/devbox.git
