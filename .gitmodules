@@ -19,3 +19,6 @@
 [submodule "__/github.com/boycott/devbox"]
 	path = __/github.com/boycott/devbox
 	url = https://github.com/boycott/devbox.git
+[submodule "__/github.com/mtti/devbox-node"]
+	path = __/github.com/mtti/devbox-node
+	url = https://github.com/mtti/devbox-node.git
