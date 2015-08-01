@@ -22,3 +22,6 @@
 [submodule "__/github.com/mtti/devbox-node"]
 	path = __/github.com/mtti/devbox-node
 	url = https://github.com/mtti/devbox-node.git
+[submodule "__/github.com/czerasz/nodejs-devbox"]
+	path = __/github.com/czerasz/nodejs-devbox
+	url = https://github.com/czerasz/nodejs-devbox.git
