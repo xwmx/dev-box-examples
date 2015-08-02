@@ -106,3 +106,6 @@
 [submodule "__/github.com/dstagner/rails-vagrant-toybox"]
 	path = __/github.com/dstagner/rails-vagrant-toybox
 	url = https://github.com/dstagner/rails-vagrant-toybox.git
+[submodule "__/github.com/blindsey/vagrant-postgres-rails"]
+	path = __/github.com/blindsey/vagrant-postgres-rails
+	url = https://github.com/blindsey/vagrant-postgres-rails.git
