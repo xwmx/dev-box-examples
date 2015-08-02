@@ -145,3 +145,6 @@
 [submodule "__/github.com/TalkingQuickly/docker_rails_dev_env"]
 	path = __/github.com/TalkingQuickly/docker_rails_dev_env
 	url = https://github.com/TalkingQuickly/docker_rails_dev_env.git
+[submodule "__/github.com/dannyvassallo/rails-middleman-vagrant"]
+	path = __/github.com/dannyvassallo/rails-middleman-vagrant
+	url = https://github.com/dannyvassallo/rails-middleman-vagrant.git
