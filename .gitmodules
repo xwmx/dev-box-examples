@@ -154,3 +154,6 @@
 [submodule "__/gist.github.com/10608748"]
 	path = __/gist.github.com/10608748
 	url = https://gist.github.com/10608748.git
+[submodule "__/github.com/omnifroodle/Rails-4-Vagrant"]
+	path = __/github.com/omnifroodle/Rails-4-Vagrant
+	url = https://github.com/omnifroodle/Rails-4-Vagrant.git
