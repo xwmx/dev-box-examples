@@ -97,3 +97,6 @@
 [submodule "__/github.com/caspyin/rails-vagrant"]
 	path = __/github.com/caspyin/rails-vagrant
 	url = https://github.com/caspyin/rails-vagrant.git
+[submodule "__/github.com/mcabrams/vagrant-template-rails-1.9.3"]
+	path = __/github.com/mcabrams/vagrant-template-rails-1.9.3
+	url = https://github.com/mcabrams/vagrant-template-rails-1.9.3.git
