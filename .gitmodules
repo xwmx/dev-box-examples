@@ -70,3 +70,6 @@
 [submodule "__/github.com/hajimes/vagrantfile-ubuntu-node-nginx"]
 	path = __/github.com/hajimes/vagrantfile-ubuntu-node-nginx
 	url = https://github.com/hajimes/vagrantfile-ubuntu-node-nginx.git
+[submodule "__/github.com/joaquimserafim/vagrant-nodejs-postgresql"]
+	path = __/github.com/joaquimserafim/vagrant-nodejs-postgresql
+	url = https://github.com/joaquimserafim/vagrant-nodejs-postgresql.git
