@@ -64,3 +64,9 @@
 [submodule "__/github.com/brandonwamboldt/vagrantfiles"]
 	path = __/github.com/brandonwamboldt/vagrantfiles
 	url = https://github.com/brandonwamboldt/vagrantfiles.git
+[submodule "__/github.com/eugeneware/nodejs-vagrantfile"]
+	path = __/github.com/eugeneware/nodejs-vagrantfile
+	url = https://github.com/eugeneware/nodejs-vagrantfile.git
+[submodule "__/github.com/hajimes/vagrantfile-ubuntu-node-nginx"]
+	path = __/github.com/hajimes/vagrantfile-ubuntu-node-nginx
+	url = https://github.com/hajimes/vagrantfile-ubuntu-node-nginx.git
