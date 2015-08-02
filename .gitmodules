@@ -112,3 +112,6 @@
 [submodule "__/github.com/bltavares/vagrant-baseline"]
 	path = __/github.com/bltavares/vagrant-baseline
 	url = https://github.com/bltavares/vagrant-baseline.git
+[submodule "__/github.com/nisaacson/docker-nodejs"]
+	path = __/github.com/nisaacson/docker-nodejs
+	url = https://github.com/nisaacson/docker-nodejs.git
