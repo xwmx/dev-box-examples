@@ -115,3 +115,6 @@
 [submodule "__/github.com/nisaacson/docker-nodejs"]
 	path = __/github.com/nisaacson/docker-nodejs
 	url = https://github.com/nisaacson/docker-nodejs.git
+[submodule "__/gist.github.com/2cc0195b25c07358c15a"]
+	path = __/gist.github.com/2cc0195b25c07358c15a
+	url = https://gist.github.com/2cc0195b25c07358c15a.git
