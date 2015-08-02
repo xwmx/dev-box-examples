@@ -142,3 +142,6 @@
 [submodule "__/gist.github.com/10785de9cc856009f6ea"]
 	path = __/gist.github.com/10785de9cc856009f6ea
 	url = https://gist.github.com/10785de9cc856009f6ea.git
+[submodule "__/github.com/TalkingQuickly/docker_rails_dev_env"]
+	path = __/github.com/TalkingQuickly/docker_rails_dev_env
+	url = https://github.com/TalkingQuickly/docker_rails_dev_env.git
