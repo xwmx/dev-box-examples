@@ -124,3 +124,6 @@
 [submodule "__/github.com/theasta/vagrant-nodejs-dev"]
 	path = __/github.com/theasta/vagrant-nodejs-dev
 	url = https://github.com/theasta/vagrant-nodejs-dev.git
+[submodule "__/github.com/miccheng/vagrant-nodejs"]
+	path = __/github.com/miccheng/vagrant-nodejs
+	url = https://github.com/miccheng/vagrant-nodejs.git
