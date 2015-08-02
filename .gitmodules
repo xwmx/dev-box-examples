@@ -136,3 +136,6 @@
 [submodule "__/github.com/cbetta/rails-vagrant-setup"]
 	path = __/github.com/cbetta/rails-vagrant-setup
 	url = https://github.com/cbetta/rails-vagrant-setup.git
+[submodule "__/github.com/a2labs/vagrant-rails"]
+	path = __/github.com/a2labs/vagrant-rails
+	url = https://github.com/a2labs/vagrant-rails.git
