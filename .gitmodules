@@ -91,3 +91,6 @@
 [submodule "__/github.com/TalkingQuickly/rails-server-template"]
 	path = __/github.com/TalkingQuickly/rails-server-template
 	url = https://github.com/TalkingQuickly/rails-server-template.git
+[submodule "__/github.com/xforty/vagrant-rails"]
+	path = __/github.com/xforty/vagrant-rails
+	url = https://github.com/xforty/vagrant-rails.git
