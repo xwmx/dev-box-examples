@@ -103,3 +103,6 @@
 [submodule "__/github.com/jpstokes/vagrant-puppet-rails-nginx-postgres"]
 	path = __/github.com/jpstokes/vagrant-puppet-rails-nginx-postgres
 	url = https://github.com/jpstokes/vagrant-puppet-rails-nginx-postgres.git
+[submodule "__/github.com/dstagner/rails-vagrant-toybox"]
+	path = __/github.com/dstagner/rails-vagrant-toybox
+	url = https://github.com/dstagner/rails-vagrant-toybox.git
