@@ -73,3 +73,6 @@
 [submodule "__/github.com/joaquimserafim/vagrant-nodejs-postgresql"]
 	path = __/github.com/joaquimserafim/vagrant-nodejs-postgresql
 	url = https://github.com/joaquimserafim/vagrant-nodejs-postgresql.git
+[submodule "__/github.com/rafal-kos/vagrant-rails"]
+	path = __/github.com/rafal-kos/vagrant-rails
+	url = https://github.com/rafal-kos/vagrant-rails.git
