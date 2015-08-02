@@ -94,3 +94,6 @@
 [submodule "__/github.com/xforty/vagrant-rails"]
 	path = __/github.com/xforty/vagrant-rails
 	url = https://github.com/xforty/vagrant-rails.git
+[submodule "__/github.com/caspyin/rails-vagrant"]
+	path = __/github.com/caspyin/rails-vagrant
+	url = https://github.com/caspyin/rails-vagrant.git
