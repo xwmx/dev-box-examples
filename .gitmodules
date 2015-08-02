@@ -85,3 +85,6 @@
 [submodule "__/github.com/ttilberg/vagrant-rails-dev"]
 	path = __/github.com/ttilberg/vagrant-rails-dev
 	url = https://github.com/ttilberg/vagrant-rails-dev.git
+[submodule "__/github.com/maxpolun/rails-vagrant-template"]
+	path = __/github.com/maxpolun/rails-vagrant-template
+	url = https://github.com/maxpolun/rails-vagrant-template.git
