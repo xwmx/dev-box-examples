@@ -133,3 +133,6 @@
 [submodule "__/github.com/cbumgard/nodejs-vagrant"]
 	path = __/github.com/cbumgard/nodejs-vagrant
 	url = https://github.com/cbumgard/nodejs-vagrant.git
+[submodule "__/github.com/cbetta/rails-vagrant-setup"]
+	path = __/github.com/cbetta/rails-vagrant-setup
+	url = https://github.com/cbetta/rails-vagrant-setup.git
