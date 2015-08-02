@@ -151,3 +151,6 @@
 [submodule "__/github.com/blakeharv/vagrant-ruby-postgres-vm"]
 	path = __/github.com/blakeharv/vagrant-ruby-postgres-vm
 	url = https://github.com/blakeharv/vagrant-ruby-postgres-vm.git
+[submodule "__/gist.github.com/10608748"]
+	path = __/gist.github.com/10608748
+	url = https://gist.github.com/10608748.git
