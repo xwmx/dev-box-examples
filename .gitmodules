@@ -163,3 +163,6 @@
 [submodule "__/github.com/antonioribeiro/dev-box"]
 	path = __/github.com/antonioribeiro/dev-box
 	url = https://github.com/antonioribeiro/dev-box.git
+[submodule "__/github.com/westonplatter/simple-dev-box"]
+	path = __/github.com/westonplatter/simple-dev-box
+	url = https://github.com/westonplatter/simple-dev-box.git
