@@ -121,3 +121,6 @@
 [submodule "__/github.com/semmypurewal/node-dev-bootstrap"]
 	path = __/github.com/semmypurewal/node-dev-bootstrap
 	url = https://github.com/semmypurewal/node-dev-bootstrap.git
+[submodule "__/github.com/theasta/vagrant-nodejs-dev"]
+	path = __/github.com/theasta/vagrant-nodejs-dev
+	url = https://github.com/theasta/vagrant-nodejs-dev.git
