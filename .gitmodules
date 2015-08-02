@@ -88,3 +88,6 @@
 [submodule "__/github.com/maxpolun/rails-vagrant-template"]
 	path = __/github.com/maxpolun/rails-vagrant-template
 	url = https://github.com/maxpolun/rails-vagrant-template.git
+[submodule "__/github.com/TalkingQuickly/rails-server-template"]
+	path = __/github.com/TalkingQuickly/rails-server-template
+	url = https://github.com/TalkingQuickly/rails-server-template.git
