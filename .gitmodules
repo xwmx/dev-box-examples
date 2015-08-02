@@ -118,3 +118,6 @@
 [submodule "__/gist.github.com/2cc0195b25c07358c15a"]
 	path = __/gist.github.com/2cc0195b25c07358c15a
 	url = https://gist.github.com/2cc0195b25c07358c15a.git
+[submodule "__/github.com/semmypurewal/node-dev-bootstrap"]
+	path = __/github.com/semmypurewal/node-dev-bootstrap
+	url = https://github.com/semmypurewal/node-dev-bootstrap.git
