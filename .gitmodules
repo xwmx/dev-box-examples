@@ -175,3 +175,6 @@
 [submodule "__/github.com/discourse/discourse"]
 	path = __/github.com/discourse/discourse
 	url = https://github.com/discourse/discourse.git
+[submodule "__/github.com/pivotal/projectmonitor"]
+	path = __/github.com/pivotal/projectmonitor
+	url = https://github.com/pivotal/projectmonitor.git
