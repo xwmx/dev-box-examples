@@ -109,3 +109,6 @@
 [submodule "__/github.com/blindsey/vagrant-postgres-rails"]
 	path = __/github.com/blindsey/vagrant-postgres-rails
 	url = https://github.com/blindsey/vagrant-postgres-rails.git
+[submodule "__/github.com/bltavares/vagrant-baseline"]
+	path = __/github.com/bltavares/vagrant-baseline
+	url = https://github.com/bltavares/vagrant-baseline.git
