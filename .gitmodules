@@ -178,3 +178,6 @@
 [submodule "__/github.com/pivotal/projectmonitor"]
 	path = __/github.com/pivotal/projectmonitor
 	url = https://github.com/pivotal/projectmonitor.git
+[submodule "__/github.com/churchio/onebody"]
+	path = __/github.com/churchio/onebody
+	url = https://github.com/churchio/onebody.git
