@@ -100,3 +100,6 @@
 [submodule "__/github.com/mcabrams/vagrant-template-rails-1.9.3"]
 	path = __/github.com/mcabrams/vagrant-template-rails-1.9.3
 	url = https://github.com/mcabrams/vagrant-template-rails-1.9.3.git
+[submodule "__/github.com/jpstokes/vagrant-puppet-rails-nginx-postgres"]
+	path = __/github.com/jpstokes/vagrant-puppet-rails-nginx-postgres
+	url = https://github.com/jpstokes/vagrant-puppet-rails-nginx-postgres.git
