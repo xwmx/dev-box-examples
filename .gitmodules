@@ -139,3 +139,6 @@
 [submodule "__/github.com/a2labs/vagrant-rails"]
 	path = __/github.com/a2labs/vagrant-rails
 	url = https://github.com/a2labs/vagrant-rails.git
+[submodule "__/gist.github.com/10785de9cc856009f6ea"]
+	path = __/gist.github.com/10785de9cc856009f6ea
+	url = https://gist.github.com/10785de9cc856009f6ea.git
