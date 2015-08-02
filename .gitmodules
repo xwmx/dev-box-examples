@@ -157,3 +157,6 @@
 [submodule "__/github.com/omnifroodle/Rails-4-Vagrant"]
 	path = __/github.com/omnifroodle/Rails-4-Vagrant
 	url = https://github.com/omnifroodle/Rails-4-Vagrant.git
+[submodule "__/github.com/excellaco/my-dev-box"]
+	path = __/github.com/excellaco/my-dev-box
+	url = https://github.com/excellaco/my-dev-box.git
