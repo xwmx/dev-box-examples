@@ -127,3 +127,6 @@
 [submodule "__/github.com/miccheng/vagrant-nodejs"]
 	path = __/github.com/miccheng/vagrant-nodejs
 	url = https://github.com/miccheng/vagrant-nodejs.git
+[submodule "__/github.com/devert/vagrant-nodejs-app-starter"]
+	path = __/github.com/devert/vagrant-nodejs-app-starter
+	url = https://github.com/devert/vagrant-nodejs-app-starter.git
