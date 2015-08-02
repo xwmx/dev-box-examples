@@ -160,3 +160,6 @@
 [submodule "__/github.com/excellaco/my-dev-box"]
 	path = __/github.com/excellaco/my-dev-box
 	url = https://github.com/excellaco/my-dev-box.git
+[submodule "__/github.com/antonioribeiro/dev-box"]
+	path = __/github.com/antonioribeiro/dev-box
+	url = https://github.com/antonioribeiro/dev-box.git
