@@ -148,3 +148,6 @@
 [submodule "__/github.com/dannyvassallo/rails-middleman-vagrant"]
 	path = __/github.com/dannyvassallo/rails-middleman-vagrant
 	url = https://github.com/dannyvassallo/rails-middleman-vagrant.git
+[submodule "__/github.com/blakeharv/vagrant-ruby-postgres-vm"]
+	path = __/github.com/blakeharv/vagrant-ruby-postgres-vm
+	url = https://github.com/blakeharv/vagrant-ruby-postgres-vm.git
