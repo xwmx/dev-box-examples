@@ -169,3 +169,6 @@
 [submodule "__/github.com/singuerinc/nodejs-dev-box"]
 	path = __/github.com/singuerinc/nodejs-dev-box
 	url = https://github.com/singuerinc/nodejs-dev-box.git
+[submodule "__/github.com/anthshor/nodejs-dev-box"]
+	path = __/github.com/anthshor/nodejs-dev-box
+	url = https://github.com/anthshor/nodejs-dev-box.git
