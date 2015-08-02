@@ -181,3 +181,6 @@
 [submodule "__/github.com/churchio/onebody"]
 	path = __/github.com/churchio/onebody
 	url = https://github.com/churchio/onebody.git
+[submodule "__/github.com/sameersbn/docker-gitlab"]
+	path = __/github.com/sameersbn/docker-gitlab
+	url = https://github.com/sameersbn/docker-gitlab.git
