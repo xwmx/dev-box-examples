@@ -76,3 +76,6 @@
 [submodule "__/github.com/rafal-kos/vagrant-rails"]
 	path = __/github.com/rafal-kos/vagrant-rails
 	url = https://github.com/rafal-kos/vagrant-rails.git
+[submodule "__/github.com/savayg/vagrant"]
+	path = __/github.com/savayg/vagrant
+	url = https://github.com/savayg/vagrant.git
