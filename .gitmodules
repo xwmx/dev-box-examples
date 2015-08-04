@@ -184,3 +184,6 @@
 [submodule "__/github.com/sameersbn/docker-gitlab"]
 	path = __/github.com/sameersbn/docker-gitlab
 	url = https://github.com/sameersbn/docker-gitlab.git
+[submodule "__/github.com/ejholmes/vagrant-heroku"]
+	path = __/github.com/ejholmes/vagrant-heroku
+	url = https://github.com/ejholmes/vagrant-heroku.git
