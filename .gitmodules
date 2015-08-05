@@ -190,3 +190,6 @@
 [submodule "__/github.com/Varying-Vagrant-Vagrants/VVV"]
 	path = __/github.com/Varying-Vagrant-Vagrants/VVV
 	url = https://github.com/Varying-Vagrant-Vagrants/VVV.git
+[submodule "__/github.com/tierra/wp-vagrant"]
+	path = __/github.com/tierra/wp-vagrant
+	url = https://github.com/tierra/wp-vagrant.git
