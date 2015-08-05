@@ -187,3 +187,6 @@
 [submodule "__/github.com/ejholmes/vagrant-heroku"]
 	path = __/github.com/ejholmes/vagrant-heroku
 	url = https://github.com/ejholmes/vagrant-heroku.git
+[submodule "__/github.com/Varying-Vagrant-Vagrants/VVV"]
+	path = __/github.com/Varying-Vagrant-Vagrants/VVV
+	url = https://github.com/Varying-Vagrant-Vagrants/VVV.git
