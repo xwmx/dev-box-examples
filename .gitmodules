@@ -193,3 +193,6 @@
 [submodule "__/github.com/tierra/wp-vagrant"]
 	path = __/github.com/tierra/wp-vagrant
 	url = https://github.com/tierra/wp-vagrant.git
+[submodule "__/github.com/dirkaholic/vagrant-php-dev-box"]
+	path = __/github.com/dirkaholic/vagrant-php-dev-box
+	url = https://github.com/dirkaholic/vagrant-php-dev-box.git
