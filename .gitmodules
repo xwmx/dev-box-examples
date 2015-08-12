@@ -196,3 +196,6 @@
 [submodule "__/github.com/dirkaholic/vagrant-php-dev-box"]
 	path = __/github.com/dirkaholic/vagrant-php-dev-box
 	url = https://github.com/dirkaholic/vagrant-php-dev-box.git
+[submodule "__/github.com/sapienza/vagrant-php-box"]
+	path = __/github.com/sapienza/vagrant-php-box
+	url = https://github.com/sapienza/vagrant-php-box.git
