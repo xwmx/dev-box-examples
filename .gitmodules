@@ -199,3 +199,6 @@
 [submodule "__/github.com/sapienza/vagrant-php-box"]
 	path = __/github.com/sapienza/vagrant-php-box
 	url = https://github.com/sapienza/vagrant-php-box.git
+[submodule "__/github.com/codeguy/vm-php"]
+	path = __/github.com/codeguy/vm-php
+	url = https://github.com/codeguy/vm-php.git
