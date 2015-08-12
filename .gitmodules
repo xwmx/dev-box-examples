@@ -205,3 +205,6 @@
 [submodule "__/github.com/patrickdlee/vagrant-examples"]
 	path = __/github.com/patrickdlee/vagrant-examples
 	url = https://github.com/patrickdlee/vagrant-examples.git
+[submodule "__/github.com/fideloper/Vaprobash"]
+	path = __/github.com/fideloper/Vaprobash
+	url = https://github.com/fideloper/Vaprobash.git
