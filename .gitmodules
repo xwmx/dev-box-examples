@@ -202,3 +202,6 @@
 [submodule "__/github.com/codeguy/vm-php"]
 	path = __/github.com/codeguy/vm-php
 	url = https://github.com/codeguy/vm-php.git
+[submodule "__/github.com/patrickdlee/vagrant-examples"]
+	path = __/github.com/patrickdlee/vagrant-examples
+	url = https://github.com/patrickdlee/vagrant-examples.git
