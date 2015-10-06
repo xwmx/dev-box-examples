@@ -208,3 +208,6 @@
 [submodule "__/github.com/fideloper/Vaprobash"]
 	path = __/github.com/fideloper/Vaprobash
 	url = https://github.com/fideloper/Vaprobash.git
+[submodule "__/github.com/dotless-de/devbox-bookshelf"]
+	path = __/github.com/dotless-de/devbox-bookshelf
+	url = https://github.com/dotless-de/devbox-bookshelf.git
