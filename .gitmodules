@@ -211,3 +211,6 @@
 [submodule "__/github.com/dotless-de/devbox-bookshelf"]
 	path = __/github.com/dotless-de/devbox-bookshelf
 	url = https://github.com/dotless-de/devbox-bookshelf.git
+[submodule "__/github.com/nicferrier/pgdevbox"]
+	path = __/github.com/nicferrier/pgdevbox
+	url = https://github.com/nicferrier/pgdevbox.git
