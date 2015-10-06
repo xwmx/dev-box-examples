@@ -214,3 +214,6 @@
 [submodule "__/github.com/nicferrier/pgdevbox"]
 	path = __/github.com/nicferrier/pgdevbox
 	url = https://github.com/nicferrier/pgdevbox.git
+[submodule "__/github.com/jgautheron/dockerfiles"]
+	path = __/github.com/jgautheron/dockerfiles
+	url = https://github.com/jgautheron/dockerfiles.git
