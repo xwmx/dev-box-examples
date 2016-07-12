@@ -220,3 +220,6 @@
 [submodule "__/github.com/geerlingguy/packer-ubuntu-1604"]
 	path = __/github.com/geerlingguy/packer-ubuntu-1604
 	url = https://github.com/geerlingguy/packer-ubuntu-1604.git
+[submodule "__/github.com/tylert/packer-build"]
+	path = __/github.com/tylert/packer-build
+	url = https://github.com/tylert/packer-build.git
